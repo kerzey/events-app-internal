@@ -36,7 +36,7 @@ app.use(function (req, res, next) {
 const mockEvents = {
     events: [
         { title: 'Enter an event', id: 1, description: 'something really cool', location: 'Joes pizza', likes: 0 },
-        { title: 'another event', id: 2, description: 'something even cooler', location: 'Johns pizza', likes: 0 }
+        { title: 'Enter another event', id: 2, description: 'something even cooler', location: 'Johns pizza', likes: 0 }
     ]
 };
 
